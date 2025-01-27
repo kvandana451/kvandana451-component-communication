@@ -8,7 +8,9 @@ Output Decorator:<br>The @Output decorator is used to pass data from a child com
 @Output Decorator:<br>
 Marks a property in the child component as an event that can be bound to in the parent component.
 EventEmitter:<br>
-Provides a method (emit) to send custom events along with data from the child to the parent.
+Provides a method (emit) to send custom events along with data from the child to the parent.<br>
+Event Binding:<br>
+The parent component listens to the child component's @Output event using event binding syntax (()).
 
 ## Development server
 
