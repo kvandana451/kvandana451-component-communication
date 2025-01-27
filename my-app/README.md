@@ -1,6 +1,10 @@
 # MyApp
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.0.
+The Angular CLI installed on my system is version 19, but the project was developed using Angular version 16.<br>
+Parent To Child communication:<br>
+Input Decorator: The @Input decorator is used to pass data from a parent component to a child component. It allows the parent component to bind a property to the child component.<br>
+Child To Parent Communication:<br>
+Output Decorator:The @Output decorator is used to pass data from a child component to a parent component. It allows the child component to emit events that the parent component can listen to.
 
 ## Development server
 
